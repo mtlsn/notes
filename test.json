@@ -1,5 +1,6 @@
 {
  "type":"Domi/PublicListing/1.0",
+ "id":"53a15059-42b2-48e3-96c3-570b2e36bf0b",
  "endpoint":"domi:AVJYSEZ5K2L4OXLCZXIXGHHB24YGQMM6", 
  "disclosure_request":["given_name", "family_name", "verified_by", "date_of_birth"],
  "attachments":[
