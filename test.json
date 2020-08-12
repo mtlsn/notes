@@ -2,7 +2,7 @@
  "type":"Domi/PublicListing/1.0",
  "endpoint":"domi:AVJYSEZ5K2L4OXLCZXIXGHHB24YGQMM6", 
  "disclosure_request":["given_name", "family_name", "verified_by", "date_of_birth"],
- "attachements":[
+ "attachments":[
    {
      "type":"Domi/PropertyDescription",
      "floor_area":45,
