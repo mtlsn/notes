@@ -5,8 +5,8 @@
  "attachements":[
    {
      "type":"Domi/PropertyDescription",
-     "floor_area":65,
-     "rent":
+     "floor_area":45,
+     "rent":1200
    },
    {
      "type":"Domi/Contract",
