@@ -1,1 +1,3 @@
-{"message":"hello"}
+{"message":"DisclosureRequest"
+ "from" :"AVJYSEZ5K2L4OXLCZXIXGHHB24YGQMM6",
+ "disclosure_request":["given_name", "family_name", "verified_by", "date_of_birth"]}
